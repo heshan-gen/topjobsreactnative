@@ -1,0 +1,29 @@
+[
+  {
+    "catid": "SDQ",
+    "englisht": "IT-SW/DB/QA/Web/Graphics/GIS",
+    "sinhalat": "තොරතුරු තාක්ෂණ මෘදුකාංග",
+    "tamilt": "IT (மென்பொருள்)",
+    "icon": "design_services",
+    "bookmarked": false,
+    "url": "http://www.topjobs.lk/feeds/legasy/it_sware_db_qa_web_graphics_gis.rss"
+  },
+  {
+    "catid": "HNS",
+    "englisht": "IT-HW/Networks/Systems",
+    "sinhalat": "තොරතුරු තාක්ෂණ දෘඪාංග",
+    "tamilt": "IT (வன்பொருள்)",
+    "icon": "network_wifi",
+    "bookmarked": false,
+    "url": "http://www.topjobs.lk/feeds/legasy/it_hware_networks_systems.rss"
+  },
+  {
+    "catid": "ACA",
+    "englisht": "Accounting/Auditing/Finance",
+    "sinhalat": "ගිණුම්කරණය",
+    "tamilt": "கணக்கியல்",
+    "icon": "account_balance",
+    "bookmarked": false,
+    "url": "http://www.topjobs.lk/feeds/legasy/accounting_auditing_finance.rss"
+  }
+]
